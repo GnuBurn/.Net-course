@@ -1,0 +1,15 @@
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/bin/Debug/net10.0/2_DotNetDebugging
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/bin/Debug/net10.0/2_DotNetDebugging.deps.json
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/bin/Debug/net10.0/2_DotNetDebugging.runtimeconfig.json
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/bin/Debug/net10.0/2_DotNetDebugging.dll
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/bin/Debug/net10.0/2_DotNetDebugging.pdb
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/2_DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/2_DotNetDebugging.AssemblyInfoInputs.cache
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/2_DotNetDebugging.AssemblyInfo.cs
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/2_DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/2_DotNetDebugging.sourcelink.json
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/2_DotNetDebugging.dll
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/refint/2_DotNetDebugging.dll
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/2_DotNetDebugging.pdb
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/2_DotNetDebugging.genruntimeconfig.cache
+/home/gnuburn/Studies/Net_course/2_DotNetDebugging/obj/Debug/net10.0/ref/2_DotNetDebugging.dll
