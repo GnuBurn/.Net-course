@@ -38,3 +38,7 @@ Content-Type: application/json
 GET {{_4_DotNetContosoPizza_HostAddress}}/pizza/3
 Accept: application/json
 ###
+
+DELETE {{_4_DotNetContosoPizza_HostAddress}}/pizza/3
+
+###
